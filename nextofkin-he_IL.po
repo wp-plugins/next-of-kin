@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Next Of Kin 1.0b\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-03-28 12:50-0700\n"
+"PO-Revision-Date: 2007-03-28 13:02-0700\n"
+"Last-Translator: tzafrir <tzafrir@tzafrir.net>\n"
+"Language-Team: Hebrew <admin@tzafrir.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: nextofkin.php:69
+msgid "Next Of Kin"
+msgstr "שאר בשר"
+
+#: nextofkin.php:69 nextofkin.php:85
+msgid "Next Of Kin Options"
+msgstr "אפשרויות שאר בשר"
+
+#: nextofkin.php:88
+msgid "Options updated succesfully."
+msgstr "אפשרויות עודכנו בהצלחה."
+
+#: nextofkin.php:92
+msgid "Plugin activated - Now go and edit your messages and options below!"
+msgstr "התוסף הופעל - עכשיו יש לעדכן את ההודעות והאפשרויות המופיעות למטה!"
+
+#: nextofkin.php:134
+msgid "Enable Next Of Kin plugin functionality"
+msgstr "הפעלת תוסף שאר בשר"
+
+#: nextofkin.php:163
+msgid ""
+"This email is automatically sent to you because you did not login at your "
+"blog for two weeks. If you will not login within the next week, the system "
+"will assume the worst and will take further actions to send your preset "
+"details to the person(s) you chose to have those sent to."
+msgstr "הודעת דואר אלקטרוני זו נשלחה אליך מפני שלא התחברת לבלוג שלך במשך שבועיים. אם לא יירשם חיבור נוסף שלך למערכת במשך השבוע הקרוב, המערכת תניח שהגרוע מכל קרה, ותנקוט באמצעים נוספים לקראת שליחת הפרטים שנקבעו מראש אל הכתובות שהזנת."
+
+#: nextofkin.php:164
+msgid ""
+"The text here will be sent to you in case you have not logged in to the "
+"system after receiving the first email. On the same time the following email "
+"will be sent to whoever you chose to receive your personal details."
+msgstr "הטקסט הזה יישלח אליך במקרה שלא יירשם חיבור למערכת לאחר קבלת ההודעה הראשונה. באותו זמן הודעת הדואר הבאה אחרי זו תישלח לכתובות הדואר האלקטרוני ששלחת."
+
+#: nextofkin.php:165
+msgid ""
+"The text here will be sent to your chosen person(s) once you do not log in "
+"to the system after receiving the first notice. Write it carefully - you "
+"sadly might not be alive at this point."
+msgstr "הטקסט כאן יישלח לכתובות הדואר האלקטרוני שבחרת מראש, במקרה שלא הגבת לאחר קבלת ההתראה הראשונה. יש לכתוב אותו ברגישות - ייתכן כי אינך בין החיים כשהודעה זו מתקבלת."
+
+#: nextofkin.php:166
+msgid ""
+"This is the final text that will be sent to your chosen person(s) after you "
+"do not log in to the system for a month (by default). Here you should write "
+"passwords and logins to your blog, domain management panel, web management "
+"panel, secret bank account numbers, and whatever information you feel should "
+"be left after you have gone. Again, write this carefully! By this point, it "
+"is assumed you are deceased for several weeks."
+msgstr "זהו הטקסט האחרון שיישלח לכתובות שבחרת מראש לאחר חודש של אי חיבור למערכת (כברירת מחדל). כאן כדאי לכתוב סיסמאות ושמות משתמש לבלוג, למערכת הניהול של האתר והדומיין, מספרים של חשבונות בנק סודיים, וכל מידע שבדעתך להעביר למי שיישאר אחריך. שוב, יש לכתוב את הטקסט הזה ברגישות! בנקודה זו, סביר להניח שאינך בין החיים זה מספר שבועות."
+
+#: nextofkin.php:167 nextofkin.php:168 nextofkin.php:169 nextofkin.php:170
+msgid "This is the email subject"
+msgstr "זה הנושא של הודעת הדואר"
+
+#: nextofkin.php:191 nextofkin.php:197
+msgid "(seperate multiple addresses with commas)"
+msgstr "(ניתן להפריד כתובות מרובות באמצעות פסיק)"
+
+#: nextofkin.php:191
+msgid "Your Email(s): "
+msgstr "כתוב(ו)ת האי מייל שלך:"
+
+#: nextofkin.php:197
+msgid "Email(s) to receive your electronic will: "
+msgstr "כתוב(ו)ת אימייל שיקבלו את הצוואה האלקטרונית שלך:"
+
+#: nextofkin.php:203
+msgid "Your name: (will appear as sender)"
+msgstr "שמך: (יופיע כשולח ההודעה)"
+
+#: nextofkin.php:210
+msgid ""
+"Interval 1: (time between last login into the system and first warning mail)"
+msgstr "פרק זמן 1: (זמן בין חיבור אחרון למערכת לבין ההתראה הראשונה)"
+
+#: nextofkin.php:223 nextofkin.php:240 nextofkin.php:257
+msgid "Weeks"
+msgstr "שבועות"
+
+#: nextofkin.php:227
+msgid "Interval 2: (time between first warning mail to seconds warning mail)"
+msgstr "פרק זמן 2: (זמן בין ההתראה הראשונה לבין ההתראה השנייה)"
+
+#: nextofkin.php:244
+msgid ""
+"Interval 3: (time between the second warning mail to the moment the system "
+"assumes you are no longer alive or functioning"
+msgstr "פרק זמן 3: (זמן בין ההתראה השנייה לבין הזמן שבו המערכת מניחה שנפטרת)"
+
+#: nextofkin.php:270
+msgid "Update Options"
+msgstr "עדכן אפשרויות"
+
+#: nextofkin.php:275
+msgid ""
+"Write your informative emails here <small>(blank emails will not be sent)</"
+"small>"
+msgstr "כאן יש לכתוב את הודעות הדואר האלקטרוני <small>(הודעות ריקות לא תישלחנה)</small>"
+
+#: nextofkin.php:276
+#, php-format
+msgid ""
+"Message 1: <small>(will be sent to you after %s weeks of inactivity)</small>"
+msgstr "הודעה 1: <small>(תישלח אליך לאחר %s שבועות של חוסר פעילות)</small>"
+
+#: nextofkin.php:279
+#, php-format
+msgid ""
+"Message 2: <small>(will be sent to you after %s more weeks of inactivity)</"
+"small>"
+msgstr "הודעה 2: <small>(תישלח אליך לאחר %s שבועות נוספים של חוסר פעילות)</small>"
+
+#: nextofkin.php:282
+msgid ""
+"Message 3: <small>(will be sent to the email address(es) you chose to "
+"receive your details, at the same time as message 2)</small>"
+msgstr "הודעה 3: <small>(תישלח לכתובות שציינת, באותו זמן יחד עם הודעה 2)</small>"
+
+#: nextofkin.php:285
+#, php-format
+msgid ""
+"Message 4: <small>(will be sent to your chosen email address(es) after %s "
+"more weeks of inactivity)</small>"
+msgstr "הודעה 4: <small>(תישלח לכתובות שציינת לאחר %s שבועות נוספים של חוסר פעילות)</small>"
+
+#: nextofkin.php:290
+msgid "Update Messages"
+msgstr "עדכן הודעות"
