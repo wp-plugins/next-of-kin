@@ -1,0 +1,148 @@
+# Next Of Kin 1.0b POT file.
+# Copyright (C) 2007 Next Of Kin's copyright holder
+# This file is distributed under the same license as Next Of Kin.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Next Of Kin 1.0b\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-03-28 12:50-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: admin <admin@tzafrir.net>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: nextofkin.php:69
+msgid "Next Of Kin"
+msgstr ""
+
+#: nextofkin.php:69 nextofkin.php:85
+msgid "Next Of Kin Options"
+msgstr ""
+
+#: nextofkin.php:88
+msgid "Options updated succesfully."
+msgstr ""
+
+#: nextofkin.php:92
+msgid "Plugin activated - Now go and edit your messages and options below!"
+msgstr ""
+
+#: nextofkin.php:134
+msgid "Enable Next Of Kin plugin functionality"
+msgstr ""
+
+#: nextofkin.php:163
+msgid ""
+"This email is automatically sent to you because you did not login at your "
+"blog for two weeks. If you will not login within the next week, the system "
+"will assume the worst and will take further actions to send your preset "
+"details to the person(s) you chose to have those sent to."
+msgstr ""
+
+#: nextofkin.php:164
+msgid ""
+"The text here will be sent to you in case you have not logged in to the "
+"system after receiving the first email. On the same time the following email "
+"will be sent to whoever you chose to receive your personal details."
+msgstr ""
+
+#: nextofkin.php:165
+msgid ""
+"The text here will be sent to your chosen person(s) once you do not log in "
+"to the system after receiving the first notice. Write it carefully - you "
+"sadly might not be alive at this point."
+msgstr ""
+
+#: nextofkin.php:166
+msgid ""
+"This is the final text that will be sent to your chosen person(s) after you "
+"do not log in to the system for a month (by default). Here you should write "
+"passwords and logins to your blog, domain management panel, web management "
+"panel, secret bank account numbers, and whatever information you feel should "
+"be left after you have gone. Again, write this carefully! By this point, it "
+"is assumed you are deceased for several weeks."
+msgstr ""
+
+#: nextofkin.php:167 nextofkin.php:168 nextofkin.php:169 nextofkin.php:170
+msgid "This is the email subject"
+msgstr ""
+
+#: nextofkin.php:191 nextofkin.php:197
+msgid "(seperate multiple addresses with commas)"
+msgstr ""
+
+#: nextofkin.php:191
+msgid "Your Email(s): "
+msgstr ""
+
+#: nextofkin.php:197
+msgid "Email(s) to receive your electronic will: "
+msgstr ""
+
+#: nextofkin.php:203
+msgid "Your name: (will appear as sender)"
+msgstr ""
+
+#: nextofkin.php:210
+msgid ""
+"Interval 1: (time between last login into the system and first warning mail)"
+msgstr ""
+
+#: nextofkin.php:223 nextofkin.php:240 nextofkin.php:257
+msgid "Weeks"
+msgstr ""
+
+#: nextofkin.php:227
+msgid "Interval 2: (time between first warning mail to seconds warning mail)"
+msgstr ""
+
+#: nextofkin.php:244
+msgid ""
+"Interval 3: (time between the second warning mail to the moment the system "
+"assumes you are no longer alive or functioning"
+msgstr ""
+
+#: nextofkin.php:270
+msgid "Update Options"
+msgstr ""
+
+#: nextofkin.php:275
+msgid ""
+"Write your informative emails here <small>(blank emails will not be sent)</"
+"small>"
+msgstr ""
+
+#: nextofkin.php:276
+#, php-format
+msgid ""
+"Message 1: <small>(will be sent to you after %s weeks of inactivity)</small>"
+msgstr ""
+
+#: nextofkin.php:279
+#, php-format
+msgid ""
+"Message 2: <small>(will be sent to you after %s more weeks of inactivity)</"
+"small>"
+msgstr ""
+
+#: nextofkin.php:282
+msgid ""
+"Message 3: <small>(will be sent to the email address(es) you chose to "
+"receive your details, at the same time as message 2)</small>"
+msgstr ""
+
+#: nextofkin.php:285
+#, php-format
+msgid ""
+"Message 4: <small>(will be sent to your chosen email address(es) after %s "
+"more weeks of inactivity)</small>"
+msgstr ""
+
+#: nextofkin.php:290
+msgid "Update Messages"
+msgstr ""
